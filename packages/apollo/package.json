@@ -1,5 +1,5 @@
 {
-  "name": "@nestjs/apollo",
+  "name": "@healthnoteinc/nestjs-apollo",
   "version": "13.1.0",
   "description": "Nest - modern, fast, powerful node.js web framework (@apollo)",
   "author": "Kamil Mysliwiec",
